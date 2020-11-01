@@ -9,9 +9,6 @@ io.on('connection', (socket) => {
             user[socket.id] = name;
             socket.broadcast.emit('user-connect', name);
     });
-    socket.on('users', () =>{
-        socket.broadcast.emit('users', user);
-    });
     socket.on('chat-message', (msg) =>{
             io.emit('chat-message', {msg, user: user[socket.id]});
     });
