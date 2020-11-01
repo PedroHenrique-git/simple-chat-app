@@ -4,6 +4,6 @@
 
 <p>Algumas imagens do projeto</p>
 
-<img src="/imagens/chat1.png">
-<img src="/imagens/mobile_chat.png">
+<img src="/images/chat1.png">
+<img src="/images/mobile_chat.png">
 
