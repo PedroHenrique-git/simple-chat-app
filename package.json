@@ -1,0 +1,27 @@
+{
+  "name": "chatApp",
+  "version": "1.0.0",
+  "description": "<h1>ChatApp</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroHenrique-git/SimpleChatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroHenrique-git/SimpleChatApp/issues"
+  },
+  "homepage": "https://github.com/PedroHenrique-git/SimpleChatApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^2.3.0"
+  }
+}
