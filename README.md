@@ -1,11 +1,25 @@
-<h1>ChatApp</h1>
+# ChatApp
 
-<p>Um chat simples desenvolvido usando html,css, javaScript, node e socket.io</p>
+A simple chat with socket.io
 
-<p>Para executar o projeto execute <b>npm run dev</b> e abra o index.html pela extensão live server do vscode</p>
+## Getting Started
 
-<p>Algumas imagens do projeto</p>
+To run the project, run <b> npm run dev </b> and open index.html via the vscode live server extension
+
+## Built With
+
+* [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+* [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+* [Node](https://nodejs.org/en/)
+* [Socket.io](https://socket.io/)
+
+## Images
 
 <img src="/images/chat1.png">
 <img src="/images/mobile_chat.png">
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
