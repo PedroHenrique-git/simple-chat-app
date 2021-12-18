@@ -13,11 +13,6 @@ To run the project, run <b> npm run dev </b> and open index.html via the vscode 
 * [Node](https://nodejs.org/en/)
 * [Socket.io](https://socket.io/)
 
-## Images
-
-<img src="/images/chat1.png">
-<img src="/images/mobile_chat.png">
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
